@@ -859,7 +859,8 @@ By working on this project, you will learn:
 ---
 
 **Last Updated:** May 2026  
-**Status:** 🟢 Active Development
+**Status:** 🟢 Active Development : slack-clone-group-project-1.vercel.app
+
 
 ---
 
